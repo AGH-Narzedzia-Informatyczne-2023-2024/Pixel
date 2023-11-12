@@ -12,6 +12,7 @@ Gra platformowa wzorowana na Super Mario Bros. (1985)
    - Play
         - Nowa gra
         - Wczytaj grę
+        - Kontynuuj
    - Options
         - Ilość żyć
         - Dźwięk
