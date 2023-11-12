@@ -10,10 +10,14 @@ Gra platformowa wzorowana na Super Mario Bros. (1985)
 - W tle dobrze, aby grała muzyka z Mario Bros
 - Należy dodać opcje
    - Play
+        - Nowa gra
+        - Wczytaj grę
    - Options
         - Ilość żyć
         - Dźwięk
         - Poziom trudności
+        - Ustawienia grafiki
+        - Przypisanie klawiszy
     - Statistics
         - Ilość prób
         - Czas gry
