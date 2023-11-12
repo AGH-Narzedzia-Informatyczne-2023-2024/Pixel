@@ -5,6 +5,7 @@ Czyli gra platformowa w ramach projektu na studia!
 
 <!-- Narazie zrobiłem tyle z opisu. Autorzy powinni być na dole więc dopiszcie reszte tutaj pomiędzy tymi paragrafami tj. to co ustaliliśmy, że każdy ma zrobić (chyba, że nie ustalilśmy to zróbcie tak żeby było dobrze) -->
 Gra platformowa wzorowana na Super Mario Bros. (1985)
+Stworzona z wykorzystaniem PyGame.
 ## 1. MAIN MENU
 - Main menu powinno być podobne graficznie do gry Mario Bros. 
 - W tle dobrze, aby grała muzyka z Mario Bros
