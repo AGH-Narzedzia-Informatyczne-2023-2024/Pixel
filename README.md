@@ -8,6 +8,9 @@ Gra platformowa wzorowana na Super Mario Bros. (1985)
 
 Stworzona z wykorzystaniem PyGame.
 ## 1. MAIN MENU
+<details><summary>CLICK ME</summary>
+<p>
+   
 - Main menu powinno być podobne graficznie do gry Mario Bros. 
 - W tle dobrze, aby grała muzyka z Mario Bros
 - Należy dodać opcje
@@ -27,13 +30,20 @@ Stworzona z wykorzystaniem PyGame.
    - Quit
 - Można zamieścić grafike ilustrującą grę  
 [Link MAIN MENU](https://www.youtube.com/watch?v=bmRFi7-gy5Y)
+</p>
+</details>
+
 ## 2. Ekran końcowy
+<details><summary>CLICK ME</summary>
+<p>
+   
 - Należy stworzyć ekran końcowy:
     - game over
     - You win lub Level completed
 - Należy stworzyć możliwość pauz (esc)  
 [Link GAME OVER](https://www.youtube.com/watch?v=7srI4WCmSYc)
-    
+ </p>
+</details>   
 
 
 
