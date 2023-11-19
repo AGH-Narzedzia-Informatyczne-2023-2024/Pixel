@@ -1,5 +1,5 @@
 # Pixel
-Czyli gra platformowa w ramach projektu na studia!
+Czyli gra platformowa w ramach projektu na studia w ramach przedmiotu Narzędzia Informatyczne!
 
 > A platform game as a university project!
 
