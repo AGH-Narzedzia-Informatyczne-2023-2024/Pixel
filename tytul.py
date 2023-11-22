@@ -1,3 +1,7 @@
 # Funkcja piszaca tytul gry
 def tytul():
-    print("Pixel.")
+mlk
+    print("Pixel")
+=======
+    print("Pixel")
+main
