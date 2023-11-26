@@ -1,4 +1,4 @@
 def menu():
-    print("MENU")
-
+    print("MENU")    
+    print("robie tutaj konfikt joł")
 menu()
